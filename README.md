@@ -12,11 +12,11 @@ Hey there, I brew code with coffee. Full Stack, Software Engineer, Linux Develop
 ```json
 {
   "languages": ["JavaScript", "C++", "C#"],
-  "backend": ["NodeJS", "C++"],
+  "backend": ["NodeJS"],
   "frontend": ["React", "Next"],
   "ui/ux": ["Adobe Xd", "Sketch" "Figma"],
   "os": ["Linux"],
-  "databases": ["Oracle", "mySQL"],
+  "databases": ["Oracle", "mySQL", "MongoDB"],
   "experimenting": ["TypeScript", "Elixir "],
   "pen-testing": ["Kali", "Wireshark", "Aircrack-NG", "Cisco Packet Tracer"]
 }
