@@ -17,7 +17,7 @@ Hey there, I brew code with coffee. Full Stack, Software Engineer, Linux Develop
   "ui/ux": ["Adobe Xd", "Sketch" "Figma"],
   "os": ["Linux", "Windows"],
   "databases": ["mySQL", "MongoDB"],
-  "experimenting": ["TypeScript", "Elixir "],
+  "experimenting": ["TypeScript"],
   "pen-testing": ["Kali", "Wireshark", "Aircrack-NG", "Cisco Packet Tracer"]
 }
 ```
