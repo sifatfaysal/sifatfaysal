@@ -2,7 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Email-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sifatfaysalsifat@gmail.com)
 
-Hey there, I brew code with coffee. Full Stack, Software Engineer, Linux Developer and Penetration Testing enthusiasts.
+Hey there, I brew code with coffee. Full Stack, Software Engineer, Linux dev and Penetration Testing enthusiasts.
 
 ## {...} My Stack
 
