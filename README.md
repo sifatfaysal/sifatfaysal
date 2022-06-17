@@ -4,21 +4,22 @@
 
 Hey there, I brew code with coffee. Full Stack, Software Engineer, Linux dev and Penetration Testing enthusiasts.
 
-## {...} My Stack
 
-
-
+## 💎 Web2.0 Stack
 
 ```json
 {
-  "languages": ["JavaScript", "C++"],
-  "backend": ["NodeJS"],
-  "frontend": ["React", "Next"],
-  "ui/ux": ["Adobe Xd", "Sketch" "Figma"],
-  "os": ["Linux", "Windows"],
-  "databases": ["mySQL", "MongoDB"],
-  "experimenting": ["TypeScript"],
-  "pen-testing": ["Kali", "Wireshark", "Aircrack-NG", "Cisco Packet Tracer"]
+  "Languages": ["TypeScript", "python", "CP"],
+  "Backend": ["NodeJS"],
+  "Frontend": ["React", "Next"],
+  "CSS Framework": ["Material", "Sass", "Tailwind"],
+  "Ui/Ux": ["Adobe Xd", "Sketch" "Figma"],
+  "OS": ["Linux", "Windows"],
+  "Databases": ["mySQL", "MongoDB"],
+  "API/Auth": ["REST", "JSON"],
+  "Build Tools": ["Webpack"],
+  "Package Manager": ["npm", "yarn"],
+  "Version Control": ["Git", "GitHub", "GitLab"]
 }
 ```
 
