@@ -10,7 +10,7 @@ Full Stack Software Engineer.
 
 ```json
 {
-  "Languages": ["TypeScript", "python", "CP"],
+  "Languages": ["TypeScript", "Javascript", "CP"],
   "Backend": ["NodeJS"],
   "Frontend": ["React", "Next"],
   "CSS Framework": ["Material", "Sass", "Tailwind"],
